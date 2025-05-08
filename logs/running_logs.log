@@ -39,3 +39,24 @@ Source-Age: 0
 [2025-05-08 20:56:00,155: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2025-05-08 21:47:00,912: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-08 21:47:00,925: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-08 21:47:00,925: INFO: common: created directory at: artifacts]
+[2025-05-08 21:47:00,936: INFO: common: created directory at: artifacts/data_validation]
+[2025-05-08 21:55:24,907: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-08 21:55:24,907: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-08 21:55:24,907: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-08 21:55:24,907: INFO: common: created directory at: artifacts]
+[2025-05-08 21:55:24,919: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-08 21:55:24,919: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2025-05-08 21:55:25,093: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-05-08 21:55:25,093: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-05-08 21:55:25,093: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-08 21:55:25,104: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-08 21:55:25,108: INFO: common: created directory at: artifacts]
+[2025-05-08 21:55:25,109: INFO: common: created directory at: artifacts/data_validation]
+[2025-05-08 21:55:25,115: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
