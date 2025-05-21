@@ -60,3 +60,32 @@ x==========x]
 [2025-05-08 21:55:25,115: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2025-05-15 19:14:01,838: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-15 19:14:01,862: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-15 19:14:01,878: INFO: common: created directory at: artifacts]
+[2025-05-15 19:14:01,878: INFO: common: created directory at: artifacts/data_transformation]
+[2025-05-21 19:45:10,682: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-21 19:45:10,695: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-21 19:45:10,695: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 19:45:10,695: INFO: common: created directory at: artifacts]
+[2025-05-21 19:45:10,695: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-21 19:45:10,695: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2025-05-21 19:45:10,850: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-05-21 19:45:10,850: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-05-21 19:45:10,850: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-21 19:45:10,850: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 19:45:10,867: INFO: common: created directory at: artifacts]
+[2025-05-21 19:45:10,868: INFO: common: created directory at: artifacts/data_validation]
+[2025-05-21 19:45:10,876: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-05-21 19:45:10,876: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-05-21 19:45:10,885: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-21 19:45:10,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 19:45:10,891: INFO: common: created directory at: artifacts]
+[2025-05-21 19:45:10,891: INFO: common: created directory at: artifacts/data_transformation]
+[2025-05-21 19:45:15,255: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
